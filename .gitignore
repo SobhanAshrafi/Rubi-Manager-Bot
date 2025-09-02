@@ -1,0 +1,26 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# virtualenv
+venv/
+linux-venv/
+env/
+
+
+# logs
+*.log
+logs/
+
+
+# IDE files
+.vscode/
+.idea/
+
+
+# Configs / secrets
+config/secrets.env
+config/*.rp
